@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningMockingOpenWeather", "OefeningMockingOpenWeather\OefeningMockingOpenWeather.csproj", "{5232CBBD-7E15-4523-B7D7-345952CC0DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningMockingOpenWeather.UnitTests", "OefeningMockingOpenWeather.UnitTests\OefeningMockingOpenWeather.UnitTests.csproj", "{514552AB-AC73-4257-8FBF-A6123D279D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5232CBBD-7E15-4523-B7D7-345952CC0DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5232CBBD-7E15-4523-B7D7-345952CC0DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5232CBBD-7E15-4523-B7D7-345952CC0DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5232CBBD-7E15-4523-B7D7-345952CC0DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514552AB-AC73-4257-8FBF-A6123D279D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514552AB-AC73-4257-8FBF-A6123D279D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514552AB-AC73-4257-8FBF-A6123D279D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514552AB-AC73-4257-8FBF-A6123D279D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C21D79-5F46-40BB-B0C5-8EDA110717B2}
+	EndGlobalSection
+EndGlobal
